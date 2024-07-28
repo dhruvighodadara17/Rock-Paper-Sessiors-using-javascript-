@@ -1,4 +1,5 @@
-**Rock Paper Sessior**
+**Rock Paper Sessior** \n
+
 HTML: Basic structure
 CSS: Make it colourful and alignment
 Javascript: Logic for the game

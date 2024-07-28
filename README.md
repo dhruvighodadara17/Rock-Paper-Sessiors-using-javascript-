@@ -1,4 +1,4 @@
-**Rock Paper Sessior** \n
+**Rock Paper Sessior**/n
 
 HTML: Basic structure
 CSS: Make it colourful and alignment
